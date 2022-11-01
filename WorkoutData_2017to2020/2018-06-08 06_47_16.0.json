@@ -1,0 +1,51 @@
+[
+    {"sport": "WALKING"},
+    {"source": "TRACK_MOBILE"},
+    {"created_date": "2018-06-08 06:47:16.0"},
+    {"start_time": "2018-06-08 06:47:14.0"},
+    {"end_time": "2018-06-08 06:47:26.0"},
+    {"duration_s": 1800},
+    {"distance_km": 2.5},
+    {"calories_kcal": 186},
+    {"altitude_min_m": 202.186},
+    {"altitude_max_m": 202.186},
+    {"speed_avg_kmh": 5},
+    {"hydration_l": 3.49E-4},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 64.231598},
+                {"longitude": 27.729258}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Fri Jun 08 06:47:14 UTC 2018"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 64.231598},
+                {"longitude": 27.729258}
+            ]]},
+            {"altitude": 202.186},
+            {"distance_km": 0},
+            {"timestamp": "Fri Jun 08 06:47:22 UTC 2018"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 64.231598},
+                {"longitude": 27.729258}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Fri Jun 08 06:47:26 UTC 2018"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 64.231598},
+                {"longitude": 27.729258}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Fri Jun 08 07:21:33 UTC 2018"}
+        ]
+    ]}
+]
