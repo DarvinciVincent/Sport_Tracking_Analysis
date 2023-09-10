@@ -1,8 +1,10 @@
 # WorkoutBigDataPredictiveModel
-●	Developed a cutting-edge machine learning model using Jupyter Notebook to predict with accuracy the type, time, and duration of the next exercise for a user.
+●	Conducted Exploratory Data Analysis (EDA) by transforming raw JSON data into meaningful insights.
 
-●	Leveraged the project insights to uncover valuable patterns and behaviors in users' exercise routines.
+●	Performed data wrangling including handling missing values, conducting one-hot encoding, and normalizing data to ensure pristine data quality.
 
-●	Analyzed and processed data from Endomondo from 2017-2020.
+●	Employed sophisticated data mining techniques, performed time-series shifting, and skillfully transformed data, leading to the creation of a diverse and enriched dataset. 
 
-●	Transformed raw JSON data into meaningful insights for stakeholders.
+●	Demonstrated expertise in implementing KNN classifier, Logistics Regressor, Decision Tree Classifier, and Huber Regressor to develop robust and high-performance machine learning models.
+
+
